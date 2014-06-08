@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/chase/AndroidStudioProjects/TextSelect/TextSelect/build/intermediates/pre-dexed/debug/classes-0e177985d90b52da574d65c599a0920d76a8b823.jar"
+        jar="/home/chase/AndroidStudioProjects/TextSelect/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/home/chase/AndroidStudioProjects/TextSelect/TextSelect/build/intermediates/pre-dexed/debug/support-v4-19.1.0-508505b8a7f1dea58d2129f030a63109bae64af4.jar"
+        jar="/home/chase/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/chase/Dropbox/AndroidStudioProjects/text-select/TextSelect/build/intermediates/pre-dexed/debug/classes-f8e404e2109b9a0dc854084b90c663bae6665cc5.jar"
+        jar="/home/chase/Dropbox/AndroidStudioProjects/text-select/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>

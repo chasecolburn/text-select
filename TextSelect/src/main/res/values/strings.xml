@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Select</string>
+    <string name="message">Some are born great, some achieve greatness, and some have greatness thrust upon them.</string>
+    <string name="definition_help_text">Tap word to see definition</string>
+
+</resources>
